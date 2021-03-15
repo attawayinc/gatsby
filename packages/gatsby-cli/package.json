@@ -26,7 +26,7 @@
     "gatsby-core-utils": "^2.2.0-next.0",
     "gatsby-recipes": "^0.13.0-next.0",
     "gatsby-telemetry": "^2.2.0-next.0",
-    "hosted-git-info": "^3.0.6",
+    "hosted-git-info": "^3.0.8",
     "is-valid-path": "^0.1.1",
     "joi": "^17.4.0",
     "lodash": "^4.17.21",
