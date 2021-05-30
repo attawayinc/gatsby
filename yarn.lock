@@ -24500,10 +24500,17 @@ rollup@^1:
     "@types/node" "*"
     acorn "^7.1.0"
 
-rollup@^2.34.2, rollup@^2.35.1:
+rollup@^2.35.1:
   version "2.39.1"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.39.1.tgz#7afd4cefd8a332c5102a8063d301fde1f31a9173"
   integrity sha512-9rfr0Z6j+vE+eayfNVFr1KZ+k+jiUl2+0e4quZafy1x6SFCjzFspfRSO2ZZQeWeX9noeDTUDgg6eCENiEPFvQg==
+  optionalDependencies:
+    fsevents "~2.3.1"
+
+rollup@^2.50.4:
+  version "2.50.4"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.50.4.tgz#5a53e4294296dfee2a83b0ec0d0536984b98de71"
+  integrity sha512-mBQa9O6bdqur7a6R+TXcbdYgfO2arXlDG+rSrWfwAvsiumpJjD4OS23R9QuhItuz8ysWb8mZ91CFFDQUhJY+8Q==
   optionalDependencies:
     fsevents "~2.3.1"
 
