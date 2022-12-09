@@ -4778,10 +4778,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/signal-exit@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/signal-exit/-/signal-exit-3.0.0.tgz#75e3b17660cf1f6c6cb8557675b4e680e43bbf36"
-  integrity sha512-MaJ+16SOXz0Z27EMf3d88+B6UDglq1sn140a+5X/ROLkIcEfRq0CPg+1B2efF1GXQn4n+aKH4ti2hHG4Ya+Dzg==
+"@types/signal-exit@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/signal-exit/-/signal-exit-3.0.1.tgz#ec9fb8e3fbf0ed5d9f7d22b5647214bece916a5b"
+  integrity sha512-OSitN9PP9E/c4tlt1Qdj3CAz5uHD9Da5rhUqlaKyQRCX1T7Zdpbk6YdeZbR2eiE2ce+NMBgVnMxGqpaPSNQDUQ==
 
 "@types/source-list-map@*":
   version "0.1.2"

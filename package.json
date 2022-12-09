@@ -23,7 +23,7 @@
     "@types/normalize-path": "^3.0.0",
     "@types/react": "^18.0.21",
     "@types/semver": "^7.3.13",
-    "@types/signal-exit": "^3.0.0",
+    "@types/signal-exit": "^3.0.1",
     "@types/stack-trace": "^0.0.29",
     "@types/webpack-merge": "^4.1.5",
     "@typescript-eslint/eslint-plugin": "^5.45.0",
