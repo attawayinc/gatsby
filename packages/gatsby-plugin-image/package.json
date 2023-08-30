@@ -62,7 +62,7 @@
     "postcss": "^8.4.21",
     "prepend-directive": "^1.1.0",
     "semver": "^7.5.3",
-    "terser": "^5.16.8",
+    "terser": "^5.19.3",
     "typescript": "^5.1.6"
   },
   "peerDependencies": {
