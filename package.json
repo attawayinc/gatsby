@@ -1,11 +1,11 @@
 {
   "packageManager": "yarn@1.22.19",
   "devDependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.25.2",
     "@babel/eslint-parser": "^7.21.8",
     "@babel/eslint-plugin": "^7.19.1",
     "@babel/node": "^7.20.7",
-    "@babel/plugin-transform-typescript": "^7.20.13",
+    "@babel/plugin-transform-typescript": "^7.25.2",
     "@babel/runtime": "^7.20.13",
     "@lerna/prompt": "3.18.5",
     "@types/babel__code-frame": "^7.0.3",
