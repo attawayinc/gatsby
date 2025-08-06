@@ -75,7 +75,7 @@
     "node-object-hash": "^2.3.10",
     "proper-lockfile": "^4.1.2",
     "resolve-from": "^5.0.0",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.3",
     "xdg-basedir": "^4.0.0"
   },
   "devDependencies": {
