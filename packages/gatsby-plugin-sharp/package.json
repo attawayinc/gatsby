@@ -15,7 +15,7 @@
     "fs-extra": "^11.2.0",
     "gatsby-core-utils": "^4.17.0-next.0",
     "gatsby-plugin-utils": "^4.17.0-next.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "probe-image-size": "^7.2.3",
     "semver": "^7.5.3",
     "sharp": "^0.32.6"
