@@ -125,7 +125,7 @@
     "mime": "^3.0.0",
     "mini-css-extract-plugin": "1.6.2",
     "mitt": "^1.2.0",
-    "moment": "^2.29.4",
+    "moment": "^2.31.0",
     "multer": "^2.0.1",
     "node-fetch": "^2.6.11",
     "node-html-parser": "^7.1.0",
